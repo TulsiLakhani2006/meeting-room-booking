@@ -1,0 +1,15 @@
+# Java compiled files
+*.class
+out/
+target/
+
+# Local SQLite databases
+*.db
+
+# IDE files
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
